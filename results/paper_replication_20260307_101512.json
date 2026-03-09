@@ -1,0 +1,72 @@
+{
+  "experiment": "paper_replication",
+  "timestamp": "2026-03-07T10:15:12.170079",
+  "results": [
+    {
+      "run": 1,
+      "best_fitness": 15.15298244508295,
+      "best_tour": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "execution_time": 0.036314964294433594
+    },
+    {
+      "run": 2,
+      "best_fitness": 15.15298244508295,
+      "best_tour": [
+        3,
+        2,
+        1,
+        0,
+        4
+      ],
+      "execution_time": 0.03263568878173828
+    },
+    {
+      "run": 3,
+      "best_fitness": 15.15298244508295,
+      "best_tour": [
+        3,
+        2,
+        1,
+        0,
+        4
+      ],
+      "execution_time": 0.027518749237060547
+    },
+    {
+      "run": 4,
+      "best_fitness": 15.15298244508295,
+      "best_tour": [
+        3,
+        2,
+        1,
+        0,
+        4
+      ],
+      "execution_time": 0.041693925857543945
+    },
+    {
+      "run": 5,
+      "best_fitness": 15.15298244508295,
+      "best_tour": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "execution_time": 0.03259015083312988
+    }
+  ],
+  "statistics": {
+    "best": 15.15298244508295,
+    "worst": 15.15298244508295,
+    "average": 15.15298244508295,
+    "std": 0.0
+  }
+}
